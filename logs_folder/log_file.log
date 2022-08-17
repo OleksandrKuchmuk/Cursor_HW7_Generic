@@ -1,0 +1,182 @@
+[INFO] 2022-08-17 11:06:25.211 UserService:27 - Adam 
+[INFO] 2022-08-17 11:06:25.218 UserService:27 - John 
+[INFO] 2022-08-17 11:06:25.219 UserService:27 - Mike 
+[INFO] 2022-08-17 11:06:25.241 UserService:34 - John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=1000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:06:25.241 UserService:34 - Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:06:25.241 UserService:34 - Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:12:36.310 UserService:27 - Adam 
+[INFO] 2022-08-17 11:12:36.315 UserService:27 - John 
+[INFO] 2022-08-17 11:12:36.316 UserService:27 - Mike 
+[INFO] 2022-08-17 11:12:36.330 UserService:34 - Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:12:36.331 UserService:34 - John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:12:36.331 UserService:34 - Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:17:51.202 UserService:27 - Adam 
+[INFO] 2022-08-17 11:17:51.205 UserService:27 - John 
+[INFO] 2022-08-17 11:17:51.205 UserService:27 - Mike 
+[INFO] 2022-08-17 11:17:51.257 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:17:51.258 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:17:51.260 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:20:03.493 UserService:27 - Adam 
+[INFO] 2022-08-17 11:20:03.499 UserService:27 - John 
+[INFO] 2022-08-17 11:20:03.500 UserService:27 - Mike 
+[INFO] 2022-08-17 11:20:03.532 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:20:03.532 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:20:03.534 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:20:44.425 UserService:27 - Adam 
+[INFO] 2022-08-17 11:20:44.428 UserService:27 - John 
+[INFO] 2022-08-17 11:20:44.429 UserService:27 - Mike 
+[INFO] 2022-08-17 11:20:44.505 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:20:44.506 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:20:44.507 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:21:24.121 UserService:27 - Adam 
+[INFO] 2022-08-17 11:21:24.126 UserService:27 - John 
+[INFO] 2022-08-17 11:21:24.127 UserService:27 - Mike 
+[INFO] 2022-08-17 11:21:24.185 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:21:24.186 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:21:24.187 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:23:49.467 UserService:27 - Adam 
+[INFO] 2022-08-17 11:23:49.471 UserService:27 - John 
+[INFO] 2022-08-17 11:23:49.472 UserService:27 - Mike 
+[INFO] 2022-08-17 11:23:49.504 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:23:49.505 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:23:49.505 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:26:16.963 UserService:27 - Adam 
+[INFO] 2022-08-17 11:26:16.965 UserService:27 - John 
+[INFO] 2022-08-17 11:26:16.966 UserService:27 - Mike 
+[INFO] 2022-08-17 11:26:16.990 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:26:16.990 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:26:16.991 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:27:40.994 UserService:27 - Adam 
+[INFO] 2022-08-17 11:27:40.998 UserService:27 - John 
+[INFO] 2022-08-17 11:27:40.999 UserService:27 - Mike 
+[INFO] 2022-08-17 11:27:41.026 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:27:41.027 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:27:41.028 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:28:00.550 UserService:27 - Adam 
+[INFO] 2022-08-17 11:28:00.558 UserService:27 - John 
+[INFO] 2022-08-17 11:28:00.559 UserService:27 - Mike 
+[INFO] 2022-08-17 11:28:00.608 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:28:00.608 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:28:00.608 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:48:35.338 UserService:27 - Adam 
+[INFO] 2022-08-17 11:48:35.342 UserService:27 - John 
+[INFO] 2022-08-17 11:48:35.342 UserService:27 - Mike 
+[INFO] 2022-08-17 11:48:35.380 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:48:35.382 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:48:35.387 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:51:30.566 UserService:27 - Adam 
+[INFO] 2022-08-17 11:51:30.573 UserService:27 - John 
+[INFO] 2022-08-17 11:51:30.573 UserService:27 - Mike 
+[INFO] 2022-08-17 11:51:30.619 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:51:30.620 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:51:30.620 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:51:30.624 Main:42 - 
+Amount of tax for a person who is calculated: 500.0 
+[INFO] 2022-08-17 11:52:04.952 UserService:27 - Adam 
+[INFO] 2022-08-17 11:52:04.956 UserService:27 - John 
+[INFO] 2022-08-17 11:52:04.956 UserService:27 - Mike 
+[INFO] 2022-08-17 11:52:04.979 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:52:04.980 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:52:04.981 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:52:04.983 Main:42 - 
+Amount of tax for a person who is calculated is: 500.0 
+[INFO] 2022-08-17 11:52:55.628 UserService:27 - Adam 
+[INFO] 2022-08-17 11:52:55.633 UserService:27 - John 
+[INFO] 2022-08-17 11:52:55.634 UserService:27 - Mike 
+[INFO] 2022-08-17 11:52:55.682 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:52:55.683 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:52:55.684 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:52:55.685 Main:42 - 
+Amount of tax for a person who is calculated is: 628.4000000000001 
+[INFO] 2022-08-17 11:53:11.360 UserService:27 - Adam 
+[INFO] 2022-08-17 11:53:11.363 UserService:27 - John 
+[INFO] 2022-08-17 11:53:11.364 UserService:27 - Mike 
+[INFO] 2022-08-17 11:53:11.435 UserService:34 - 
+John has accounts:
+[Account{id=1, sum=1000.0}, Account{id=first, sum=10000.0}, Account{id=second, sum=12568.0}] 
+[INFO] 2022-08-17 11:53:11.436 UserService:34 - 
+Mike has accounts:
+[Account{id=A1, sum=1459.0}, Account{id=5458, sum=78964.0}, Account{id=H345, sum=7899634.0}] 
+[INFO] 2022-08-17 11:53:11.436 UserService:34 - 
+Adam has accounts:
+[Account{id=asf, sum=45646.0}, Account{id=zdf, sum=5646.0}, Account{id=258, sum=68768.0}, Account{id=3547, sum=253456.0}] 
+[INFO] 2022-08-17 11:53:11.438 Main:42 - 
+Amount of tax for a person who is calculated is: 394981.7 
